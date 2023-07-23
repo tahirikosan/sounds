@@ -58,5 +58,10 @@
     "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/moon-icon.png",
     "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Night%20Ambience%202/ES_Night%20Ambience%202.mp3",
     "name": "Night Ambiance"
+  },
+  {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/location-travel-map/camping-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Forest%20Night%20Crickets/ES_Forest%20Night%20Crickets.mp3",
+    "name": "Forest Night"
   }
 ]
