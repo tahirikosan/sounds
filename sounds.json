@@ -158,5 +158,60 @@
     "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/factory-icon.png",
     "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Dock%20Ambience/ES_Dock%20Ambience.mp3",
     "name": "Dock Ambiance"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/tools-equipment-construction/laser-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Sci-Fi%20Weapon/ES_Sci-Fi%20Weapon.mp3",
+    "name": "Sci-fi Weapon"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/animals-and-birds/butterfly-fly-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Space%20Cricket%203/ES_Space%20Cricket%203.mp3",
+    "name": "Space Cricket"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/tools-equipment-construction/laser-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Laser%20Beam%20Cut%20High%204/ES_Laser%20Beam%20Cut%20High%204.mp3",
+    "name": "Laser Beam Cut"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/waterfall-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Waterfall%201/ES_Waterfall%201.mp3",
+    "name": "Waterfall 1"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/food-and-drinks/bbq-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Water%20Boil%20Bubbles/ES_Water%20Boil%20Bubbles.mp3",
+    "name": "Water Boil"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/agriculture-farming-gardening/fountain-icon.png",
+    "sound_url": "https://www.epidemicsound.com/sound-effects/water/?length=30%2C70",
+    "name": "Water Fountain"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/weather/water-wave-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Water%20Stream%20Ambience/ES_Water%20Stream%20Ambience.mp3",
+    "name": "Water Stream"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/boat-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Waves%20Against%20Boat/ES_Waves%20Against%20Boat.mp3",
+    "name": "Wave n Boat"
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/cave-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Cave%20Water%20Drips%201/ES_Cave%20Water%20Drips%201.mp3",
+    "name": "Cave Water Drops" 
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/Bird%20Ambience/ES_Bird%20Ambience.mp3",
+    "name": "Bird Ambiance" 
+  },
+   {
+    "icon_url": "https://uxwing.com/wp-content/themes/uxwing/download/buildings-architecture-real-estate/building-icon.png",
+    "sound_url": "https://audiocdn.epidemicsound.com/ES_ITUNES/City%20Rooftop/ES_City%20Rooftop.mp3",
+    "name": "City Rooftop" 
   }
 ]
